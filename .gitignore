@@ -170,3 +170,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+Train_Test_Valid/
