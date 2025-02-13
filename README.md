@@ -1,5 +1,20 @@
 # Jellyfish Classification with CNN (PyTorch)
 
+![blue jellyfish](assets/14.jpg)
+
+- [Jellyfish Classification with CNN (PyTorch)](#jellyfish-classification-with-cnn-pytorch)
+  - [Overview](#overview)
+  - [Dataset](#dataset)
+  - [Installation](#installation)
+    - [Setup](#setup)
+  - [Training the Model](#training-the-model)
+  - [Evaluating and Using the Model](#evaluating-and-using-the-model)
+  - [Running the Flask API](#running-the-flask-api)
+    - [Example](#example)
+  - [Project Structure](#project-structure)
+  - [License](#license)
+    - [Contributions \& Issues](#contributions--issues)
+
 ## Overview
 
 This project implements a Convolutional Neural Network (CNN) using PyTorch to classify images of jellyfish into one of six species:
